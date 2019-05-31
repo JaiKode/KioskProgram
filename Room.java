@@ -1,102 +1,51 @@
-
-
 package simp;
 
 import java.awt.Color;
 import java.util.ArrayList;
 
 public class Room {
-	private String room_number, teacher, subject;
+	private String roomNum, teacher, message;
+	private String p1, p2, p3, p4, p5, p6;
 	private Color color;
-	private ArrayList<String> clubs;
+	private String clubs;
 	
 	
-	public Room(String room_number, String teacher, String subject, String RGB, ArrayList<String> clubs) {
-		this.room_number = room_number;
+	public Room(String roomNum, String color, String teacher, String clubs, String p1, String p2, String p3, String p4, String p5, String p6, String message) {
+		this.roomNum = roomNum;
 		this.teacher = teacher;
-		this.subject = subject;
-		RGB = RGB.trim();
-		int red = Integer.parseInt(RGB.substring(0, 3));
-		int green = Integer.parseInt(RGB.substring(3, 6));
-		int blue = Integer.parseInt(RGB.substring(6, 9));
-		color = new Color(red, green, blue);
-		System.out.println(red);
-		System.out.println(green);
-		System.out.println(blue);
+		this.message = message;
+		int red = Integer.parseInt(color.trim().substring(0, 3));
+		int green = Integer.parseInt(color.substring(3, 6));
+		int blue = Integer.parseInt(color.substring(6, 9));
+		this.color = new Color(red, green, blue);
 		this.clubs = clubs;
+		//to function with 0 and 7th periods would need to change to an array and change datagetter accordingly
+		this.p1 = p1;
+		this.p2 = p2;
+		this.p3 = p3;
+		this.p4 = p4;
+		this.p5 = p5;
+		this.p6 = p6;
+		
 	}
 
 	public String toString() {
-		String info = room_number + " - " + teacher + " - " + subject + " - ";
-		for(String club : clubs) {
-			info += club + " - ";
-		}
+		String info = "<html>";
+		info += "Room Number: " + roomNum + "<br>";
+		info += "Teacher: " + teacher + "<br>";
+		info += "Clubs " + clubs + "<br>";
+		info += "Period 1: " + p1.substring(2) + "<br>";
+		info += "Period 2: " + p2.substring(2) + "<br>";
+		info += "Period 3: " + p3.substring(2) + "<br>";
+		info += "Period 4: " + p4.substring(2) + "<br>";
+		info += "Period 5: " + p5.substring(2) + "<br>";
+		info += "Period 6: " + p6.substring(2) + "<br>";
+		info += "Message: " + message + "<br>";
+		info += "<html>";
 		return info;
-		
 	}
 	
-	//GETTERS AND SETTERS GENERATED BELOW
-
-	/**
-	 * @return the room_number
-	 */
-	public String getRoom_number() {
-		return room_number;
-	}
-
-
-	/**
-	 * @param room_number the room_number to set
-	 */
-	public void setRoom_number(String room_number) {
-		this.room_number = room_number;
-	}
-
-
-	/**
-	 * @return the teacher
-	 */
-	public String getTeacher() {
-		return teacher;
-	}
-
-
-	/**
-	 * @param teacher the teacher to set
-	 */
-	public void setTeacher(String teacher) {
-		this.teacher = teacher;
-	}
-
-
-	/**
-	 * @return the subject
-	 */
-	public String getSubject() {
-		return subject;
-	}
-
-
-	/**
-	 * @param subject the subject to set
-	 */
-	public void setSubject(String subject) {
-		this.subject = subject;
-	}
-
-
-	/**
-	 * @return the clubs
-	 */
-	public ArrayList<String> getClubs() {
-		return clubs;
-	}
-
-
-	/**
-	 * @param clubs the clubs to set
-	 */
-	public void setClubs(ArrayList<String> clubs) {
-		this.clubs = clubs;
+	public Color getColor() {
+		return color;
 	}
 }

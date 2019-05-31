@@ -1,0 +1,649 @@
+RM 74
+000150250
+Kalman
+Fashion Club
+1 Biology
+2 Biology
+3 None
+4 Biology
+5 Biology
+6 Biology
+
+RM 75
+000160250
+Keuth
+None
+1 Biology
+2 Biology
+3 Biology
+4 Chemistry
+5 Chemistry
+6 None
+
+RM 76
+000170250
+Mackey
+None
+1 Human Anatomy & Physiology
+2 Biology
+3 None
+4 Biology
+5 Biology
+6 Biology
+
+RM 77
+000180250 
+Overby
+None
+1 Avid 10
+2 Living Earth
+3 None
+4 Physiology
+5 Physiology 
+6 Physiology
+
+RM 78
+000190250
+Reynolds
+None
+1 PE
+2 PE
+3 PE
+4 None
+5 PE
+6 PE
+
+RM 79
+000200250
+Ferguson
+None
+1 Int Math 2
+2 Int Math 1
+3 Int Math 2
+4 None
+5 Int Math 1
+6 Int Math 1
+
+RM 80
+000210250
+Seden
+Chess Club
+1 Int Math 2
+2 AP Statistics
+3 AP Statistics
+4 None
+5 AP Statistics
+6 Int Math 2
+
+RM 81
+000220250
+Satyapal
+Math Olympiad Club
+1 Int Math 1
+2 Int Math 1
+3 Int Math 1
+4 Int Math 1
+5 None
+6 Int Math 1
+
+RM 82
+000230250
+Bayer
+None
+1 Int Math 1
+2 Trig/Precalc
+3 Int Math 1
+4 Trig/Precalc
+5 None
+6 Trig/Precalc
+
+RM 83
+000240250
+Brady
+None
+1 Study Center
+2 AP Calc AB
+3 AP Calc AB
+4 Int Math 1
+5 None
+6 AP Calc AB
+
+RM 84
+000250250
+Visvanathan
+Branham Eclipse, Math Olympiad Club, Rocketry Club
+1 AP Calc BC
+2 Int Math 2
+3 None
+4 None
+5 Int Math 2
+6 Int Math 2
+
+RM 85
+100000250
+Allen
+None
+1 Int Math 2
+2 Int Math 2
+3 Int Math 2
+4 None
+5 Int Math 2
+6 Int Math 1
+
+RM 7
+130000250
+Salberg
+None
+1 US History
+2 None
+3 US History
+4 US History
+5 US History
+6 US History
+
+RM 8
+140000250
+Haghighi
+Gay Straight Alliance (GSA)
+1 Social COG
+2 None
+3 None
+4 Social COG
+5 None
+6 None
+
+RM 11
+110000250
+Gertz
+None
+1 Amer.Gov/Econ
+2 US History
+3 None
+4 Study Skills
+5 None
+6 Academic Support
+
+RM 12
+120000250
+Mason
+None
+1 US History
+2 None
+3 US History
+4 APUSH
+5 APUSH
+6 APUSH
+
+RM 63
+000000120
+West, Burnside
+BLISS Club, Intersectional Feminist Club
+1 Guitar
+2 Madrigals
+3 Concert Choir
+4 ELD 2&3
+5 AP Lit
+6 Acapella Show Choir
+
+RM 64
+000000110
+Nalls
+None
+1 None
+2 Guitar
+3 Symphonic Band
+4 Wind Ensemble
+5 Concert Band
+6 None
+
+RM 26
+250000000
+Gertz
+Lighthouse
+1 Academic Supp.
+2 Spanish 1
+3 None
+4 Spanish 1
+5 Spanish 1
+6 Spanish 1
+
+RM 27
+240000000
+Ponzio
+None
+1 None
+2 English 2 
+3 English 2 
+4 ELD Eng Enrichment
+5 ELD Eng Enrichment
+6 None
+
+RM 28
+ 230000000
+Amanatullah
+Bruin to Bruin, California Scholarship Federation (CSF), Model UN, Super Ultra Meme Club
+1 None
+2 Ap Lit
+3 ELD Eng Enrichment
+4 English 2
+5 AP Lit.
+6 English 2
+
+RM 29
+220000000
+Lei
+None
+1 C.R World History
+2 None
+3 English 1H
+4 English 1H 
+5 English 1H
+6 English 1H
+
+RM 30
+210000000
+Hinds, Kile
+None
+1 English 2H
+2 English 2H
+3 English 2H
+4 English 1H
+5 English 1H
+6 English 1H
+
+RM 31
+200000000
+Gertz
+None
+1 Study Skills 
+2 None
+3 English 
+4 Study Skills 
+5 English
+6 None
+
+RM 33
+180000000
+Hardin
+None
+1 Science
+2 Social Science
+3 Life Skills 
+4 None
+5 Social Science 
+6 Science
+
+RM 34
+170000000
+Wilson
+Best Buddies
+1 English
+2 English
+3 Career Develop
+4 English
+5 English
+6 None
+
+RM 35
+160000000
+Wilson
+None
+1 Math 
+2 Math
+3 Living on Own
+4 PE
+5 None
+6 Math
+
+RM 36
+150000000
+Chidester
+SPARE Club
+1 AP Physics 1
+2 AP Physics 1
+3 AP Physics 1
+4 None
+5 Physics 1
+6 Physics 1
+
+RM 37
+140000000
+Theo
+None
+1 Physics 1
+2 Physics 1
+3 Physics 1
+4 None
+5 AP Physics 2
+6 Physics 1
+
+RM 38
+130000000
+Schweizer
+Acoustic Club
+1 AP Lang 
+2 None
+3 AP Lang
+4 ERWC
+5 ERWC
+6 ERWC
+
+RM 39
+120000000
+Freschi
+None
+1 Avid Peer Tutor
+2 AP Lang
+3 AP Lang 
+4 ELD 2/3
+5 AP Lit
+6 None
+
+RM 40
+110000000
+Neil
+None
+1 Foods 1 
+2 Foods 2 
+3 None 
+4 Foods
+5 None 
+6 Foods 1
+
+RM 41
+100000000
+Torrecillas, Schremp
+Bionic Bruins, Girls Who Code
+1 IED
+2 IED
+3 IED
+4 Digital Electronics
+5 Digital Electronics
+6 EDD
+
+RM 43
+000240000
+Johnson
+Branham Biotech Club, Key Club
+1 Chemistry
+2 Chemistry
+3 Chemistry
+4 Physics 
+5 Physics 
+6 None
+
+RM 44
+000230000
+Vo
+None
+1 Chemistry
+2 Journalism
+3 None
+4 Chemistry
+5 Chemistry
+6 None
+
+RM 46
+000210000
+Maddelein
+None
+1 Spanish 2
+2 Spanish 2
+3 Spanish 2
+4 Spanish 1
+5 Spanish 1
+6 None
+
+RM 47
+000200000
+Meunier
+None
+1 Spanish 3
+2 Spanish 3
+3 None
+4 Spanish 3
+5 Spanish 3
+6 None
+
+RM 48
+000190000
+Murphy
+Junior Statesmen of America (JSA), Speech and Debate
+1 None
+2 English 2H
+3 English 2
+4 English 2
+5 English 2H
+6 English 2
+
+RM 49
+000180000
+Marquez
+None
+1 Spanish 1
+2 None
+3 Spanish 1
+4 Spanish 1
+5 Spanish 1
+6 Spanish 1
+
+RM 50
+000170000
+Garceau
+French Club
+1 None
+2 French 1
+3 French 1
+4 French 2
+5 French 2
+6 French 3/ AP French
+
+RM 51
+000160000
+MacKinnon
+Quizbowl
+1 Spanish 1
+2 Spanish 1
+3 Spanish 1 
+4 None
+5 French 1
+6 Spanish 1
+
+RM 52
+000150000
+Fragano
+None
+1 Spanish 2 
+2 Spanish 2
+3 Spanish 2
+4 Spanish 2
+5 None
+6 Span-Sp Spk 1
+
+RM 53
+000140000
+Eaton
+Days for Girls, Photography Club
+1 Amer. Gov
+2 Amer. Gov
+3 Amer. Gov
+4 World History
+5 World History
+6 World History
+
+RM 54
+000130000 
+Dickey
+None
+1 US History
+2 US History
+3 World History
+4 World History
+5 World History
+6 World History
+
+RM 55
+000120000
+Ozdinski
+American Cancer Society
+1 None
+2 Psychology 
+3 Psychology 
+4 AP Psychology 
+5 AP Psychology 
+6 Economics
+
+RM 56
+000110000
+Johanson
+Liberty in North Korea
+1 Econ./Gov.
+2 Economics
+3 Economics
+4 None
+5 World History
+6 World History
+
+RM 57
+000100000
+Selfridge
+Spikeball Club
+1 AP US Gov & Pol
+2 AP US Gov & Pol
+3 AP US Gov & Pol
+4 None
+5 American Government
+6 American Government
+
+RM 58
+000000250
+Bender
+None
+1 Digital Photo
+2 Digital Photo
+3 None
+4 Graphic Publ.
+5 Digital Photo 1
+6 Digital Photo ½
+
+RM 59
+000000240
+Bertron
+Random Acts of Kindness
+1 3D Design 1
+2 3D Design 1
+3 3D Design 1
+4 Art 1
+5 Art 1
+6 3D Design 1
+
+RM 60
+000000230
+Prates
+Kpop Dance Team (KDT)
+1 None
+2 Art 1
+3 Art 1
+4 Art 2
+5 Art 2
+6 Art 1
+
+RM 61
+000000220
+Chen
+None
+1 Chemistry
+2 Chemistry
+3 Chemistry
+4 POE
+5 None
+6 POE
+
+RM 62
+000000210
+Fernandez
+Interact
+1 Chemistry
+2 Chemistry
+3 Chemistry
+4 Chemistry
+5 AP Biology
+6 None
+
+RM 67
+000000150
+McLeod
+Black Student Union
+1 Math
+2 Algebra Concepts
+3 PE
+4 English 1
+5 Earth Science
+6 Elective
+
+RM 69
+000000170
+Molina
+Pen Pal Club, Spanish Club
+1 Spanish 2
+2 Spanish 2
+3 Spanish 2
+4 AP Spanish
+5 None
+6 Spanish 4
+
+RM 70
+000000180
+Torrecillas, Schremp, Cray
+None
+1 None
+2 IM3+
+3 IM3+
+4 IM1
+5 IM2
+6 IM1
+
+RM 71
+000000180
+MacInnes
+None
+1 World History
+2 World History
+3 World History
+4 WHAP
+5 WHAP
+6 None
+
+RM 72
+000000200
+Turner
+Branham Gaming Club, Dungeons and Dragons Club, Wii Club, Suit Club
+1 None
+2 AP CSA
+3 IM3
+4 None
+5 IM3
+6 IM3
+The best room! :)
+RM 73
+000000210
+Chen
+Mandarin Club
+1 Chemistry 
+2 Chemistry 
+3 Chemistry 
+4 Princ. Of Eng
+5 None
+6 Princ. Of Eng 
+
+Gym
+000120251
+N/A
+N/A
+1 Rally today
+2 
+3 
+4 
+5 
+6  
+Event today!!!
